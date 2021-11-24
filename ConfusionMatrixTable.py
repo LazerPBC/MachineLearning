@@ -16,3 +16,4 @@ def displayConfusionMatrix(cm,cmap=plt.cm.GnBu):
     plt.ylabel('Actually')
     plt.xlabel('Prediction')
     plt.show()
+    
